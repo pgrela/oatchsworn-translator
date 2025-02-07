@@ -1,0 +1,7 @@
+.idea
+.venv
+.venv311
+__pycache__
+input
+output-*
+deepl_auth.py
